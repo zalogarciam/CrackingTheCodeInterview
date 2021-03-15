@@ -9,15 +9,15 @@ Probably some of them were not tested deeply, however, they are working OK.
 
 |Problem Number | Problem Name | Status|
 |--- | --- | --- |
-| 1.1 | Is Unique | [Read Solution ✅]() |
-| 1.2 | Check Permutation | [Read Solution ✅]() |
-1.3 | URLify | [Read Solution ✅]() |
-1.4 | Palindrome Permutation |  [Read Solution ✅]() |
-1.5 | One Away | [Read Solution ✅]() |
-1.6 | String Compression | [Read Solution ✅]() |
-1.7 | Rotate Matrix | [Read Solution ✅]() |
-1.8 | Zero Matrix | [Read Solution ✅]() |
-1.9 | String Rotation | [Read Solution ✅]() |
+| 1.1 | Is Unique | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%201/IsUnique.py) |
+| 1.2 | Check Permutation | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%201/CheckPermutation.py) |
+1.3 | URLify | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%201/URLify.py) |
+1.4 | Palindrome Permutation |  [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%201/PalindromePermutation.py) |
+1.5 | One Away | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%201/OneAway.py) |
+1.6 | String Compression | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%201/StringCompression.py) |
+1.7 | Rotate Matrix | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%201/RotateMatrix.py) |
+1.8 | Zero Matrix | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%201/ZeroMatrix.py) |
+1.9 | String Rotation | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%201/StringRotation.py) |
 
 ## 2. Linked Lists
 

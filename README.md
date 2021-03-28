@@ -36,12 +36,12 @@ Probably some of them were not tested deeply, however, they are working OK.
 
 | Problem Number | Problem Name | Status |
 | --- | --- | --- |
-| 3.1 | Three In One | [Read Solution ✅]() |
-| 3.2 | Stack Min | [Read Solution ✅]() |
-| 3.3 | Stack of Plates | [Read Solution ✅]() |
-| 3.4 | Queue via Stacks | [Read Solution ✅]() |
-| 3.5 | Sort Stack | [Read Solution ✅]() |
-| 3.6 | Animal Shelter | [Read Solution ✅]() |
+| 3.1 | Three In One | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%203/ThreeInOne.py) |
+| 3.2 | Stack Min | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%203/StackMin.py) |
+| 3.3 | Stack of Plates | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%203/StackOfPlates.py) |
+| 3.4 | Queue via Stacks | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%203/QueueViaStacks.py) |
+| 3.5 | Sort Stack | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%203/SortStack.py) |
+| 3.6 | Animal Shelter | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%203/AnimalShelter.py) |
 
 ## 4. Trees and Graphs
 

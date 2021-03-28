@@ -74,19 +74,19 @@ Probably some of them were not tested deeply, however, they are working OK.
 | 5.8 | Draw Line | [Read Solution ✅]() |
 
 ## 6. Math and Logic Puzzles
-
+# These are brain-teasers, no code.
 | Problem Number | Problem Name | Status |
 | --- | --- | --- |
-| 6.1 | The Heavy Pill | [Read Solution ✅]() |
-| 6.2 | Basketball | [Read Solution ✅]() |
-| 6.3 | Dominos | [Read Solution ✅]() |
-| 6.4 | Ants on a Triangle | [Read Solution ✅]() |
-| 6.5 | Jugs of Water | [Read Solution ✅]() |
-| 6.6 | Blye-Eyes Island | [Read Solution ✅]() |
-| 6.7 | The Apocalypse | [Read Solution ✅]() |
-| 6.8 | The Egg Drop Problem | [Read Solution ✅]() |
-| 6.9 | 100 Lockers | [Read Solution ✅]() |
-| 6.10 | Poison | [Read Solution ✅]() |
+| 6.1 | The Heavy Pill | ✅ |
+| 6.2 | Basketball | ✅ |
+| 6.3 | Dominos | ✅ |
+| 6.4 | Ants on a Triangle | ✅ |
+| 6.5 | Jugs of Water | ✅ |
+| 6.6 | Blye-Eyes Island | ✅ |
+| 6.7 | The Apocalypse | ✅ |
+| 6.8 | The Egg Drop Problem | ✅ |
+| 6.9 | 100 Lockers | ✅ |
+| 6.10 | Poison | ✅ |
 
 ## 7. Object Oriented Design
 

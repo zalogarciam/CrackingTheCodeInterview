@@ -23,14 +23,14 @@ Probably some of them were not tested deeply, however, they are working OK.
 
 | Problem Number | Problem Name | Status |
 | --- | --- | --- |
-| 2.1 | Remove Dups | [Read Solution ✅]() |
-| 2.2 | Return Kth to Last | [Read Solution ✅]() |
-| 2.3 | Delete Middle Node | [Read Solution ✅]() |
-| 2.4 | Partition | [Read Solution ✅]() |
-| 2.5 | Sum List | [Read Solution ✅]() |
-| 2.6 | Palindrome | [Read Solution ✅]() |
-| 2.7 | Intersection | [Read Solution ✅]() |
-| 2.8 | Loop Detection | [Read Solution ✅]() |
+| 2.1 | Remove Dups | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%202/RemoveDups.py) |
+| 2.2 | Return Kth to Last | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%202/ReturnKthToLast.py) |
+| 2.3 | Delete Middle Node | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%202/DeleteMiddleNode.py) |
+| 2.4 | Partition | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%202/Partition.py) |
+| 2.5 | Sum List | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%202/SumList.py) |
+| 2.6 | Palindrome | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%202/Palindrome.py) |
+| 2.7 | Intersection | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%202/Intersection.py) |
+| 2.8 | Loop Detection | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%202/LoopDetection.py) |
 
 ## 3. Stacks and Queues
 

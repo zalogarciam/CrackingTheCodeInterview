@@ -47,18 +47,18 @@ Probably some of them were not tested deeply, however, they are working OK.
 
 | Problem Number | Problem Name | Status |
 | --- | --- | --- |
-| 4.1 | Route Between Nodes | [Read Solution ✅]() |
-| 4.2 | Minimal Tree | [Read Solution ✅]() |
-| 4.3 | List of Depths | [Read Solution ✅]() |
-| 4.4 | Check Balanced | [Read Solution ✅]() |
-| 4.5 | Validate BST | [Read Solution ✅]() |
-| 4.6 | Successor | [Read Solution ✅]() |
-| 4.7 | Build Order | [Read Solution ✅]() |
-| 4.8 | First Common Ancestor | [Read Solution ✅]() |
-| 4.9 | BST Sequence | [Read Solution ✅]() |
-| 4.10 | Check Subtree | [Read Solution ✅]() |
-| 4.11 | Random Node | [Read Solution ✅]() |
-| 4.12 | Paths with Sum | [Read Solution ✅]() |
+| 4.1 | Route Between Nodes | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%204/RouterBetweenNodes.py) |
+| 4.2 | Minimal Tree | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%204/MinimalTree.py) |
+| 4.3 | List of Depths | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%204/ListOfDepths.py) |
+| 4.4 | Check Balanced | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%204/CheckBalanced.py) |
+| 4.5 | Validate BST | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%204/ValidateBST.py) |
+| 4.6 | Successor | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%204/Successor.py) |
+| 4.7 | Build Order | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%204/BuildOrder.py) |
+| 4.8 | First Common Ancestor | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%204/FirstCommonAncestor.py) |
+| 4.9 | BST Sequence | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%204/BSTSequence.py) |
+| 4.10 | Check Subtree | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%204/CheckSubtree.py) |
+| 4.11 | Random Node | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%204/RandomNode.py) |
+| 4.12 | Paths with Sum | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%204/PathsWithSum.py) |
 
 ## 5. Bit Manipulation
 

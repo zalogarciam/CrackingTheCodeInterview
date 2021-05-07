@@ -64,14 +64,14 @@ Probably some of them were not tested deeply, however, they are working OK.
 
 | Problem Number | Problem Name | Status |
 | --- | --- | --- |
-| 5.1 | Insertion | [Read Solution ✅]() |
-| 5.2 | Binary to String | [Read Solution ✅]() |
-| 5.3 | Flip Bit to Win | [Read Solution ✅]() |
-| 5.4 | Next Number | [Read Solution ✅]() |
+| 5.1 | Insertion | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%205/Insertion.py) |
+| 5.2 | Binary to String | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%205/BinaryToString.py) |
+| 5.3 | Flip Bit to Win | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%205/FlipBitToWin.py) |
+| 5.4 | Next Number | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%205/NextNumber.py) |
 | 5.5 | Debugger | [Read Solution ✅]() |
-| 5.6 | Conversion | [Read Solution ✅]() |
-| 5.7 | Pairwise Swap | [Read Solution ✅]() |
-| 5.8 | Draw Line | [Read Solution ✅]() |
+| 5.6 | Conversion | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%205/Conversion.py) |
+| 5.7 | Pairwise Swap | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%205/PairwiseSwap.py) |
+| 5.8 | Draw Line | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%205/DrawLine.py) |
 
 ## 6. Math and Logic Puzzles
 #### These are brain-teasers, no code.

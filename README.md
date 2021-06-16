@@ -109,20 +109,20 @@ Probably some of them were not tested deeply, however, they are working OK.
 
 | Problem Number | Problem Name | Status |
 | --- | --- | --- |
-| 8.1 | Triple Step | ❌ |
-| 8.2 | Robot in a Grid | ❌ |
-| 8.3 | Magic Index | ❌ |
-| 8.4 | Power Set | ❌ |
-| 8.5 | Recursive Multiply | ❌ |
-| 8.6 | Towers of Hanoi | ❌ |
-| 8.7 | Permutation without Dups | ❌ |
-| 8.8 | Permutation with Dups | ❌ |
-| 8.9 | Parens | ❌ |
-| 8.10 | Paint Fill | ❌ |
-| 8.11 | Coins | ❌ |
-| 8.12 | Eight Queens | ❌ |
-| 8.13 | Stack of Boxes | ❌ |
-| 8.14 | Boolean Evaluation | ❌ |
+| 8.1 | Triple Step | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%208/TripleStep.py) |
+| 8.2 | Robot in a Grid | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%208/RobotInAGrid.py) |
+| 8.3 | Magic Index | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%208/MagicIndex.py) |
+| 8.4 | Power Set | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%208/PowerSet.py) |
+| 8.5 | Recursive Multiply | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%208/RecursiveMultiply.py) |
+| 8.6 | Towers of Hanoi | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%208/TowersOfHanoi.py) |
+| 8.7 | Permutation without Dups | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%208/PermutationWithoutDups.py) |
+| 8.8 | Permutation with Dups | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%208/PermutationWithDups.py) |
+| 8.9 | Parens | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%208/Parens.py) |
+| 8.10 | Paint Fill | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%208/PaintFill.py) |
+| 8.11 | Coins | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%208/Coins.py) |
+| 8.12 | Eight Queens | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%208/EightQueens.py) |
+| 8.13 | Stack of Boxes | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%208/StackOfBoxes.py) |
+| 8.14 | Boolean Evaluation | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%208/BooleanEvaluation.py) |
 
 ## 9. System Design and Scalability
 #### These are theorical questions, no code.

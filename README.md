@@ -92,15 +92,18 @@ Probably some of them were not tested deeply, however, they are working OK.
 
 | Problem Number | Problem Name | Status |
 | --- | --- | --- |
-| 7.1 | Deck of Cards | ❌ |
-| 7.2 | Call Center | ❌ |
-| 7.3 | Jukebox | ❌ |
-| 7.4 | Parking Lot | ❌ |
-| 7.5 | Online Book Reader | ❌ |
-| 7.6 | Jigsaw | ❌ |
-| 7.7 | Chat Server | ❌ |
-| 7.8 | Othello | ❌ |
-| 7.9 | Circular Array | ❌ |
+| 7.1 | Deck of Cards | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%207/DeckOfCards.py) |
+| 7.2 | Call Center | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%207/CallCenter.py) |
+| 7.3 | Jukebox | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%207/JukeBox.py) |
+| 7.4 | Parking Lot | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%207/ParkingLot.py) |
+| 7.5 | Online Book Reader | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%207/OnlineBookReader.py) |
+| 7.6 | Jigsaw | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%207/Jigsaw.py) |
+| 7.7 | Chat Server | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%207/ChatServer.py) |
+| 7.8 | Othello | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%207/Othello.py) |
+| 7.9 | Circular Array | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%207/CircularArray.py) |
+| 7.10 | Minesweeper | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%207/Minesweeper.py) |
+| 7.11 | File System | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%207/FileSystem.py) |
+| 7.12 | Hash Table | [Read Solution ✅](https://github.com/zalogarciam/CrackingTheCodeInterview/blob/main/Chapter%207/HashTable.py) |
 
 ## 8. Recursion and Dynamic Programming
 
@@ -120,6 +123,20 @@ Probably some of them were not tested deeply, however, they are working OK.
 | 8.12 | Eight Queens | ❌ |
 | 8.13 | Stack of Boxes | ❌ |
 | 8.14 | Boolean Evaluation | ❌ |
+
+## 9. System Design and Scalability
+#### These are theorical questions, no code.
+| Problem Number | Problem Name | Status |
+| --- | --- | --- |
+| 9.1 | Stock Data |✅|
+| 9.2 | Social Network |✅|
+| 9.3 | Web Crawler |✅|
+| 9.4 | Duplicate URLs |✅|
+| 9.5 | Cache |✅|
+| 9.6 | Sales Rank |✅|
+| 9.7 | Personal Financial Manager |✅|
+| 9.8 | Pastebin |✅|
+
 
 ## 10. Sorting and Searching
 
